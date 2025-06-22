@@ -1,7 +1,7 @@
 changelog:
   exclude:
     labels:
-      - rl_ignores
+      - rl_ignore
   categories:
     - title: Features
       labels:
