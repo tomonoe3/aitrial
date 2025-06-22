@@ -2,7 +2,6 @@ changelog:
   exclude:
     labels:
       - rl_ignore
-    authors:
   categories:
     - title: Features
       labels:
