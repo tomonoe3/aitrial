@@ -1,0 +1,18 @@
+changelog:
+  exclude:
+    labels:
+      - ignore
+    authors:
+  categories:
+    - title: Features
+      labels:
+        - features  
+    - title: Fixes
+      labels:
+        - fixes
+    - title: Changes
+      labels:
+        - changes
+    - title: Other Changes
+      labels:
+        - "*"
