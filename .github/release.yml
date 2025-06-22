@@ -1,11 +1,11 @@
 changelog:
   exclude:
     labels:
-      - rl_ignore
+      - rl_ignores
   categories:
     - title: Features
       labels:
-        - rl_feature
+        - rl_features
     - title: Fixes
       labels:
         - rl_fixes
