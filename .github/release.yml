@@ -1,18 +1,15 @@
 changelog:
   exclude:
     labels:
-      - ignore
+      - rl_ignore
     authors:
   categories:
     - title: Features
       labels:
-        - features  
+        - rl_feature
     - title: Fixes
       labels:
-        - fixes
+        - rl_fixes
     - title: Changes
       labels:
-        - changes
-    - title: Other Changes
-      labels:
-        - "*"
+        - rl_changes
